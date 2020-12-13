@@ -5,7 +5,7 @@
 - King – Man + Woman = Queen
 - Chinese – China + India = Indian
 - Larger – Large + small = Smaller
-We used different dimensional glove embeddings to create the analogies and compared the norm of the resultant vector with the actual result of the analogy. To get the closest matching word vector, we used the most_similar function from genism which finds the closest vector in terms of cosine similarity
+###### We used different dimensional glove embeddings to create the analogies and compared the norm of the resultant vector with the actual result of the analogy. To get the closest matching word vector, we used the most_similar function from genism which finds the closest vector in terms of cosine similarity
 
 ### Sentiment Analysis using LSTM
 ###### We are using Keras libraries to build the LSTM network for sentiment classification.
